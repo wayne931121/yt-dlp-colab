@@ -7,39 +7,17 @@ https://colab.research.google.com/drive/1vLeTXboxkHeJyEjR4AardmqQTarexYSK?usp=sh
 
 https://github.com/yt-dlp/yt-dlp
 
-# Terms of Use (English)
+# 使用提醒 / Legal Notice
 
-This tool is intended for legal use only, such as downloading content you own or content with explicit permission.
+本工具僅提供技術功能，請務必合法使用：
 
-You are prohibited from using this tool to violate any laws, copyrights, or third-party service terms, including but not limited to:
+僅下載你擁有權利或有明確授權的影片或音訊。
 
-Downloading copyrighted videos or music without authorization.
+禁止下載未經授權的受版權保護內容。
 
-Commercializing protected content.
+商業化販售或散佈受版權保護內容屬違法行為。
 
-Circumventing any encryption or technical protection measures.
-
-The developer is not responsible for any illegal activities conducted using this tool.
-
-By using this tool, you agree to comply with these terms.
-
-# 使用條款 / Terms of Use (Chinese)
-
-本工具僅提供合法用途使用者使用，例如：
-
-下載你自己擁有權利的影片或公開授權內容。
-
-禁止使用本工具進行任何違反法律、版權、或第三方服務條款的行為，包括但不限於：
-
-未經授權下載受版權保護的影片或音樂。
-
-商業化販售受保護內容。
-
-繞過任何加密或技術保護措施。
-
-開發者對使用本工具的任何違法行為概不負責。
-
-使用本工具即表示您同意遵守上述規定。
+開發者對任何違法使用行為概不負責。
 
 # 免責聲明 / Disclaimer
 
